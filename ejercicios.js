@@ -11,7 +11,8 @@ function summaArray(numeros) {
 const numeros = [1, 2, 3, 4, 5];
 
 
-// *OTRA FORMA DE VER RESULTADO
+// *OTRA FORMA DE VER RESULTADO 
+
 // let resultadodeSuma = summaArray(numeros)
 // console.log(resultadodeSuma);
 
